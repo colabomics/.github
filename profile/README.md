@@ -4,14 +4,3 @@ We are the **Computational Omics Laboratory (CoLab)**, a research group led by *
 
 Our mission is to **decode the language of life through computation**. We develop statistical and machine learning methods to understand genome regulation, cellular states, and disease mechanisms. By integrating single-cell, spatial, and multi-omics data, we aim to turn complex biological measurements into mechanistic insights and testable predictions.
 
-## Join us
-
-We welcome motivated students, postdoctoral researchers, and collaborators interested in computational biology, genomics, statistics, and machine learning.
-
-- 🌐 **Website:** [colabomics.org](https://colabomics.org/)
-- 🔬 **Research:** [Our research programs](https://colabomics.org/research/)
-- 📚 **Publications:** [Selected publications](https://colabomics.org/publications/)
-- ✉️ **Contact:** [lizhijian@cuhk.edu.cn](mailto:lizhijian@cuhk.edu.cn)
-
-*Open science · Computational biology · Genomics · Machine learning*
-
